@@ -5,7 +5,7 @@ setup(
   version='0.1',
   description= 'this a hander for my ydlidar xl lidar ',
   url='#',
-  author="Louis W. Castro",
+  author="Louis W. Future",
   license='MIT',
   packages=['Lidar'],
   zip_safe=False
