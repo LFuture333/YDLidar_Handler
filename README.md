@@ -20,7 +20,12 @@ cd Ydlidar_Driver
 ```
 sudo chmod +x install_all.sh && sudo ./install_all.sh
 ```
-
+<p align="center">
+  <img src="https://github.com/LFuture333/YDLidar_Handler/blob/main/img/Installation.png" width="750" />
+</p>
+<p align="center">
+  Installation complete 
+</p>
 
 
 # FlowChart 
