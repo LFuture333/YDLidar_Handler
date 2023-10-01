@@ -27,6 +27,13 @@ sudo chmod +x install_all.sh && sudo ./install_all.sh
   Installation complete 
 </p>
 
+<p align="center">
+  <img src="https://github.com/LFuture333/YDLidar_Handler/blob/main/img/Python.png" width="750" />
+</p>
+<p align="center">
+   Testing if the library is install
+</p>
+
 
 # FlowChart 
 <p align="center">
