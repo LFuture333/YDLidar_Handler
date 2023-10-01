@@ -25,7 +25,7 @@ sudo chmod +x install_all.sh && sudo ./install_all.sh
 
 # FlowChart 
 <p align="center">
-  <img src="https://github.com/LFuture333/YDLidar_Handler/blob/main/img/Lidar_flowchart.PNG" width="350" />
+  <img src="https://github.com/LFuture333/YDLidar_Handler/blob/main/img/Lidar_flowchart.PNG" width="450" />
 </p>
 <p align="center">
   flowchart for a deep understanding on how the library is structure
